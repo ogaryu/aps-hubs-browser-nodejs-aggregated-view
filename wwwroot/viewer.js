@@ -27,7 +27,7 @@ export function initViewer(container) {
 
 export function loadModel(viewer, urn) {
     function onDocumentLoadSuccess(doc) {
-        doc.downloadAecModelData( () => viewer.loadDocumentNode(doc, doc.getRoot().getDefaultGeometry());
+        doc.downloadAecModelData( () => viewer.loadDocumentNode(doc, doc.getRoot().getDefaultGeometry()));
     }
     function onDocumentLoadFailure(code, message) {
         alert('Could not load model. See console for more details.');
