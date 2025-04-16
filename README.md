@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hubs Browser (Node.js)
 
 ![platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
@@ -60,3 +61,6 @@ Please contact us via https://aps.autodesk.com/en/support/get-help.
 
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 Please see the [LICENSE](LICENSE) file for more details.
+=======
+# aps-hubs-browser-nodejs-aggregated-view
+>>>>>>> origin/main
